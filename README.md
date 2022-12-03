@@ -2,3 +2,8 @@
 
 Two STL files added
 
+Top one to be used if you DONT have a 2mm spacer behinded your extruder
+
+The other one if you do
+
+Look at the file names
